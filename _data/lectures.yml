@@ -237,6 +237,7 @@
     <strong>New Directions in connecting LLMs to Graphical Models</strong>
   readings:
     - Lengerich et al., <a href="https://arxiv.org/abs/2310.11340">Contextualized Machine Learning</a>
+  slides: "../assets/lectures/Lecture_23_Context.pdf"
 
 
 - date: 4/29
