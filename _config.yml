@@ -10,16 +10,16 @@ description: >
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
-url: https://lengerichlab.github.io # the base hostname & protocol for your site
+url: https://adaptinfer.net # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
-repository: LengerichLab/pgm-spring-2025
+repository: AdaptInfer/pgm-spring-2025
 
 icon: uw-crest-color-web-digital.svg 
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: LengerichLab
+github_username: AdaptInfer
 google_analytics: 
 youtube_channel: 
 rss:  # notes rss
